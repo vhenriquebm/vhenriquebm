@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Vitor and I have a passion for Web and Mobile Development. I am currently studying:  
+ e - mail: vhenriquebm@gmail.com
 
 ##
   
