@@ -3,7 +3,7 @@
 
 ##
   
-- 📱 Swift for IOS
+- 📱 Swift for IOS development
 - 🌐 HTML, CSS and JavaScript
 
 <div align="center">
