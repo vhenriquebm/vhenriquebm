@@ -1,7 +1,10 @@
 ### Hi there 👋
-<p>My name is Vitor and I have a passion for Web and Mobile Development
-I am currently studying: ##
-- 📱 Swift for IOS ##
+My name is Vitor and I have a passion for Web and Mobile Development
+I am currently studying:  
+
+##
+  
+- 📱 Swift for IOS
 - 🌐 HTML, CSS e JavaScript
 
 <div align="center">
