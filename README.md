@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-
+My name is Vitor and I have a passion for Web and Mobile Development
+I am Currently studying:
+📱 Swift Development
+🌐 HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/vhenriquebm">
