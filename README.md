@@ -1,5 +1,6 @@
 ### Hi there 👋
- e - mail para contado: vhenriquebm@gmail.com
+ e - mail para contato: vhenriquebm@gmail.com
+ ##
  Perfil do Linkedyn: https://www.linkedin.com/in/vitor-henrique-736b72213/
 
 ##
