@@ -1,7 +1,7 @@
 ### Hi there 👋
  e - mail para contato: vhenriquebm@gmail.com
  ##
- Perfil do Linkedyn: https://www.linkedin.com/in/vitor-henrique-736b72213/
+ Perfil do Linkedin: https://www.linkedin.com/in/vitor-henrique-736b72213/
 
 ##
   
