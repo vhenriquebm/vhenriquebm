@@ -47,8 +47,8 @@
  
   <br> <br>
  <hr>
- <h2>  It is a pleasure to see you here :)
-let's code the future and make the difference together
+ <h2>  It is a pleasure to see you here! 
+let's code the future and make the difference together 😀
 </h2>
     
     
