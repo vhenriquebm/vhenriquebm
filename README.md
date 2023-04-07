@@ -20,8 +20,8 @@
 
 ##
   
-- 📱 Swift for IOS development 
-- 📱 Kotlin and Java for Android development 🤖
+- Swift for IOS development 
+- Kotlin and Java for Android development 🤖 
 
 
 #
