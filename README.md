@@ -20,8 +20,9 @@
 
 ##
   
-- 📱 Swift for IOS development
-- 🌐 HTML, CSS and JavaScript
+- 📱 Swift for IOS development 
+- 📱 Kotlin and Java for Android development 🤖
+
 
 #
 <div align="center">
