@@ -55,9 +55,6 @@ With a solid background in both platforms, I'm always seeking challenges that fu
   </div> 
  
   <br> <br>
- <hr>
- <h2>  It is a pleasure to see you here! 
-let's code the future and make the difference together 😀
-</h2>
+
     
     
