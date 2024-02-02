@@ -20,17 +20,17 @@
 
 ##
   
-👋 Olá, mundo!
+👋 Hello, world!
 
-Sou Vitor, um desenvolvedor apaixonado por criar experiências incríveis no mundo mobile. Minha jornada inclui a exploração profunda do ecossistema Android, onde domino Java e Kotlin para entregar aplicativos robustos e intuitivos.
+I'm Vitor, a developer passionate about crafting incredible experiences in the mobile world. Venturing into the iOS universe, I utilize Swift to build elegant solutions that captivate users. My journey further extends to the Android ecosystem, where I master Java and Kotlin to deliver robust and intuitive applications.
 
-Além disso, aventuro-me no universo iOS, utilizando Swift para construir soluções elegantes que cativam os usuários. Com uma bagagem sólida em ambas as plataformas, estou sempre em busca de desafios que impulsionem minha criatividade e habilidades técnicas.
+With a solid background in both platforms, I'm always seeking challenges that fuel my creativity and technical skills.
 
-💼 Experiência:
-•⁠  ⁠Desenvolvimento Android: Java, Kotlin
-•⁠  ⁠Desenvolvimento iOS: Swift
+💼 Experience:
+•⁠ ⁠iOS Development: Swift
+•⁠ ⁠Android Development: Java, Kotlin
 
-🚀 Vamos construir o futuro da mobilidade juntos!
+🚀 Let's build the future of mobility together!
 
 
 
