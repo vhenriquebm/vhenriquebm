@@ -4,14 +4,7 @@
   <a href="https://www.linkedin.com/in/vitor-henrique-736b72213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-</div>
- 
- 
-   <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="java.png">
-  <img align="center" alt="Vitor-Swift" height="30" width="40" src="swift.png">
 
-  </div>
  
 
 
@@ -28,6 +21,15 @@ With a solid background in both platforms, I'm always seeking challenges that fu
 •⁠ ⁠Android Development: Java, Kotlin
 
 🚀 Let's build the future of mobility together!
+
+</div>
+ 
+ 
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Vitor-Java" height="30" width="40" src="java.png">
+  <img align="center" alt="Vitor-Swift" height="30" width="40" src="swift.png">
+
+  </div>
 
 
 
