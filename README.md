@@ -10,25 +10,16 @@ I'm Vitor, a developer passionate about crafting incredible experiences in the m
 
 🚀 Let's build the future of mobility together!
 
-</div>
- 
-   <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-Java" height="30" width="40" src="java.png">
-  <img align="center" alt="Vitor-Swift" height="30" width="40" src="swift.png">
-
-  </div>
-
    ##
 
  <div>
- <a href = "mailto:vhenriquebm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-  <a href="https://www.linkedin.com/in/vitor-henrique-736b72213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:meduardacardoso.121@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vhenriquebm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/mari4souza/](https://www.linkedin.com/in/vitor-henrique-736b72213/))
+
 
 
 <h3 align="left">My Stack ~</h3>
