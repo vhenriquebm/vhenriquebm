@@ -14,6 +14,7 @@ I'm Vitor, a developer passionate about crafting incredible experiences in the m
 
  <div>
 
+<img align="right" alt="Chill Mario Pixel Art" height="190px" src="./pixel-jeff-chill-mario-2023-2.gif">
 
 <h3 align="left">Connect with me!</h3>
 
