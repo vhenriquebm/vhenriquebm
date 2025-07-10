@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!++%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+Senior iOS Developer
+
 👋 Hello, world!
 
 I'm Vitor, a developer passionate about crafting incredible experiences in the mobile world. Venturing into the iOS universe, I utilize Swift to build elegant solutions that captivate users.
