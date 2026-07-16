@@ -1,59 +1,99 @@
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+profile!++%F0%9F%9A%80" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007AFF&center=true&vCenter=true&width=700&lines=Senior+iOS+Engineer+%F0%9F%9A%80;Swift+%7C+SwiftUI+%7C+UIKit;Kotlin+Multiplatform+%7C+Mobile+Architecture"
+    alt="Typing SVG"
+  />
 </a>
 
-👋 Hello, world!
+</div>
 
-I'm Vitor, a developer passionate about crafting incredible experiences in the mobile world. Venturing into the iOS universe, I utilize Swift to build elegant solutions that captivate users.
+# 👋 Hello, world!
 
-💼 Experience:  
-•⁠ ⁠iOS Development: Swift  
+I'm **Vitor Marinho**, a **Senior iOS Engineer** with 6+ years of experience building, evolving, and maintaining mobile applications across financial services, gaming, and white-label products.
 
-🚀 Let's build the future of mobility together!
+I specialize in native iOS development with **Swift, SwiftUI, and UIKit**, applying scalable mobile architectures, modularization, automated testing, and reliable delivery pipelines.
 
-##
+Currently, I work with international and cross-functional teams, developing native iOS experiences with **SwiftUI**, shared business logic with **Kotlin Multiplatform**, and real-time features using **WebSockets**.
+
+## 💼 Professional experience
+
+- Native iOS development with **Swift, SwiftUI, and UIKit**
+- Shared business logic using **Kotlin Multiplatform — KMP**
+- Architectures including **MVVM, MVVM-C, MVI, and Clean Architecture**
+- Modularization, dependency injection, and reusable components
+- Real-time communication using **WebSockets**
+- REST API integrations and asynchronous data flows
+- Unit tests, UI tests, XCTest, and XCUITest
+- Release automation and CI/CD using **Fastlane**
+- App Store publishing and application lifecycle management
+- White-label platforms supporting more than 30 applications
+- Technical interviews and onboarding of iOS developers
+- Collaboration with product, design, backend, Android, web, and QA teams
+
+## 🚀 Current focus
+
+- Scalable mobile architecture
+- Swift Concurrency and async/await
+- SwiftUI for production applications
+- Kotlin Multiplatform integration
+- Performance, maintainability, and testability
+- Technical leadership and engineering best practices
+
+> Building mobile products that are scalable, reliable, and maintainable.
+
+---
 
 <div>
-  <img align="right" alt="Chill Mario Pixel Art" height="190px" src="./pixel-jeff-chill-mario-2023-2.gif">
 
-  <h3 align="left">Connect with me!</h3>
+  <img
+    align="right"
+    alt="Chill Mario Pixel Art"
+    height="190"
+    src="https://raw.githubusercontent.com/vhenriquebm/vhenriquebm/main/pixel-jeff-chill-mario-2023-2.gif"
+  />
+
+  <h3 align="left">Connect with me</h3>
 
   <a href="mailto:vhenriquebm@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color=FFF" alt="E-mail">
+    <img
+      src="https://img.shields.io/badge/Email-vhenriquebm%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
+      alt="E-mail"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/vitor-henrique-736b72213/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color=FFF" alt="LinkedIn">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Vitor_Marinho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 
-  <h3 align="left">My Stack ~</h3>
+  <h3 align="left">Core stack</h3>
 
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo">
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo">
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo">
-    <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="25" alt="unity logo">
-  </div>
+  <img
+    src="https://skillicons.dev/icons?i=swift,kotlin,apple,git,github,githubactions,firebase"
+    alt="Swift, Kotlin, Apple, Git, GitHub, GitHub Actions and Firebase"
+  />
+
+  <h3 align="left">Additional experience</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=java,gradle,postgres,unity"
+    alt="Java, Gradle, PostgreSQL and Unity"
+  />
+
 </div>
 
-##
+<br clear="both">
+
+---
 
 <div align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vhenriquebm&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhenriquebm&layout=compact&langs_count=6&hide=C%23&theme=jolly&bg_color=000&title_color=FF00F6&text_color=ffffff" alt="Most Used Languages">
+  <sub>
+    Senior iOS Engineer • Swift • SwiftUI • UIKit • Kotlin Multiplatform
+  </sub>
+
 </div>
-
-##
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
